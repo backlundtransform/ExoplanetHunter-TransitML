@@ -9,5 +9,5 @@
         "*.ipynb": "jupyter-notebook"
     },
     "jupyter.askForKernelRestart": false,
-    "jupyter.sendSelectionToInteractiveWindow": true
+    "jupyter.interactiveWindow.textEditor.executeSelection": true
 }
